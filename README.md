@@ -1,6 +1,6 @@
 #Instalar GO
 
-sudo apt intall golang
+sudo apt install golang
 
 #dar permisos Herramienta
 
